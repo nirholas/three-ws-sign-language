@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it as below.
+title: "@three-ws/sign-language"
+abstract: "American Sign Language for 3D avatars. Compile text into one continuous signed animation clip: known words sign from a lexicon of anatomically described signs, everything else fingerspells, with contact solving and non-manual facial markers. Zero runtime dependencies."
+type: software
+authors:
+  - name: three.ws contributors
+repository-code: "https://github.com/nirholas/three-ws-sign-language"
+url: "https://nirholas.github.io/three-ws-sign-language/"
+license: Apache-2.0
+version: 0.1.1

@@ -1,0 +1,17 @@
+# @three-ws/sign-language
+
+> American Sign Language for 3D avatars. Compile text into one continuous signed animation clip: known words sign from a lexicon of anatomically described signs, everything else fingerspells, with contact solving and non-manual facial markers. Zero runtime dependencies.
+
+- Repository: https://github.com/nirholas/three-ws-sign-language
+- Documentation: https://nirholas.github.io/three-ws-sign-language/
+- npm: https://www.npmjs.com/package/@three-ws/sign-language
+- License: Apache-2.0
+- Part of three.ws: https://three.ws
+
+## Docs
+
+- [README](https://github.com/nirholas/three-ws-sign-language/blob/main/README.md): install, usage and full API reference
+- [Full text for LLMs](https://nirholas.github.io/three-ws-sign-language/llms-full.txt): the entire README as plain text
+- [AGENTS.md](https://github.com/nirholas/three-ws-sign-language/blob/main/AGENTS.md): conventions for coding agents
+- [Security policy](https://github.com/nirholas/three-ws-sign-language/blob/main/SECURITY.md)
+- [Contributing](https://github.com/nirholas/three-ws-sign-language/blob/main/CONTRIBUTING.md)
